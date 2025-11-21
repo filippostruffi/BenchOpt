@@ -11,7 +11,6 @@ Start here:
 - Optimizers: [all_instructions/optimizers.md](all_instructions/optimizers.md)
 - Metrics: [all_instructions/metrics.md](all_instructions/metrics.md)
 - Commands index (all combinations): [all_instructions/commands.md](all_instructions/commands.md)
-- Run everything (script): [all_instructions/run_all.sh](all_instructions/run_all.sh)
 
 Quick start:
 ```bash
